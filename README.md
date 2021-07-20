@@ -1,3 +1,3 @@
 # Todolist
 
-#Developing some FARM stack is FastAPI, React, and MongoDB
+Developing todo list with FARM stack which is FastAPI, React, and MongoDB
